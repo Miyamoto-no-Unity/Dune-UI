@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 72379d76ec40169488879f8a6346527c
+  m_SerializeEntries:
+  - m_GUID: 7ccde12a4d1e76c489ad573ac7d8cfc1
+    m_Address: "Assets/main menu assets/\u041C\u0430\u0433\u0430\u0437\u0438\u043D/rifle.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c2ba1bfc0b8b3eb44bf0289f8df3489b
+    m_Address: "Assets/main menu assets/\u041C\u0430\u0433\u0430\u0437\u0438\u043D/weapon
+      1.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ba3ebd71abee5654da753b6e8293220b
+    m_Address: Assets/prefabs/GridElement.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b84094b3116c518409b6a5dcf1ac7d22
+    m_Address: "Assets/Sounds/\u041D\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043D
+      - \u0411\u0435\u0437 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 458afe5b8cf4e8046ad0cbba86e9c744, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0a1a136ad783a5b458eeba58bb753a6e, type: 2}
+    - {fileID: 11400000, guid: 34c340d8819301a42866e5251ff342da, type: 2}

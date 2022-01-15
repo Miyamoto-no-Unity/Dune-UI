@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: titles
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 01f7f0197041826408d99380a34201d3, type: 3}
+    - {fileID: 2800000, guid: cdbdeb0cab34edc4c9ce550339fafbec, type: 3}
+    - {fileID: 2800000, guid: 41bf1d01c5fa7dd408e01304bc45b63c, type: 3}
+    - {fileID: 2800000, guid: 45751b1031adf1c4f9e4258fbc9165e1, type: 3}
+    - {fileID: 2800000, guid: a52f486325e9c5148804f3ba59fa1b53, type: 3}
+    - {fileID: 2800000, guid: e9b1fa9edc964564cb22930af47a7830, type: 3}
+    - {fileID: 2800000, guid: 10b956adab9306c4288e0d13eb5202a4, type: 3}
+    - {fileID: 2800000, guid: 82e88ab29c39ca24ca7fd5830c68bbb4, type: 3}
+    - {fileID: 2800000, guid: b4509336ba5156042b142107aec900ac, type: 3}
+    - {fileID: 2800000, guid: 546fe596b756a7146866726928755a7c, type: 3}
+    - {fileID: 2800000, guid: 6331ac75711922c43a8622e6767d7ae8, type: 3}
+    - {fileID: 2800000, guid: 1165493f3cd990342ba038cb71af8b93, type: 3}
+    - {fileID: 2800000, guid: db4cb2f61d9387642a5d1e0bb7cb7b57, type: 3}
+    - {fileID: 2800000, guid: ea426f3afb23c4b4e8601fc269f84815, type: 3}
+    - {fileID: 2800000, guid: ad384a1eed4463f4bb9a96f6903d708f, type: 3}
+    - {fileID: 2800000, guid: da76065ba5f394045aa319430ff7482f, type: 3}
+    - {fileID: 2800000, guid: 1444cf13031716e44bb792b9a233fd3d, type: 3}
+    - {fileID: 2800000, guid: 0644e124853f3c349bbe74f71fd4c1b0, type: 3}
+    - {fileID: 2800000, guid: 74547ce82f37cea44931a1603fbcc45f, type: 3}
+    - {fileID: 2800000, guid: aa449718f9a064f4287973a76a0552b2, type: 3}
+    - {fileID: 2800000, guid: ee89e25bae478ba439d5ab09b71cb44a, type: 3}
+    - {fileID: 2800000, guid: 1491ee2aa98d32f408f6afdb006de7fa, type: 3}
+    - {fileID: 2800000, guid: 74547ce82f37cea44931a1603fbcc45f, type: 3}
+    - {fileID: 2800000, guid: d1a705514c1ec1c4ebfda09de29e9862, type: 3}
+    - {fileID: 2800000, guid: c559c5033c570f242be11437a1f1c650, type: 3}
+    - {fileID: 2800000, guid: 1eae1b2d2fa96d24084711d9a64093a6, type: 3}
+    - {fileID: 2800000, guid: b966a5f7f20429148bd5f3bbf182964a, type: 3}
+    - {fileID: 2800000, guid: 2ae6ef8859e8a0d4dabac8b109ccfd19, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 45751b1031adf1c4f9e4258fbc9165e1, type: 3}
+  - {fileID: 21300000, guid: 41bf1d01c5fa7dd408e01304bc45b63c, type: 3}
+  - {fileID: 21300000, guid: d1a705514c1ec1c4ebfda09de29e9862, type: 3}
+  - {fileID: 21300000, guid: 82e88ab29c39ca24ca7fd5830c68bbb4, type: 3}
+  - {fileID: 21300000, guid: c559c5033c570f242be11437a1f1c650, type: 3}
+  - {fileID: 21300000, guid: 1444cf13031716e44bb792b9a233fd3d, type: 3}
+  - {fileID: 21300000, guid: a52f486325e9c5148804f3ba59fa1b53, type: 3}
+  - {fileID: 21300000, guid: 0644e124853f3c349bbe74f71fd4c1b0, type: 3}
+  - {fileID: 21300000, guid: 6331ac75711922c43a8622e6767d7ae8, type: 3}
+  - {fileID: 21300000, guid: b4509336ba5156042b142107aec900ac, type: 3}
+  - {fileID: 21300000, guid: 546fe596b756a7146866726928755a7c, type: 3}
+  - {fileID: 21300000, guid: db4cb2f61d9387642a5d1e0bb7cb7b57, type: 3}
+  - {fileID: 21300000, guid: b966a5f7f20429148bd5f3bbf182964a, type: 3}
+  - {fileID: 21300000, guid: aa449718f9a064f4287973a76a0552b2, type: 3}
+  - {fileID: 21300000, guid: 2ae6ef8859e8a0d4dabac8b109ccfd19, type: 3}
+  - {fileID: 21300000, guid: 74547ce82f37cea44931a1603fbcc45f, type: 3}
+  - {fileID: 21300000, guid: 01f7f0197041826408d99380a34201d3, type: 3}
+  - {fileID: 21300000, guid: 1491ee2aa98d32f408f6afdb006de7fa, type: 3}
+  - {fileID: 21300000, guid: ea426f3afb23c4b4e8601fc269f84815, type: 3}
+  - {fileID: 21300000, guid: ee89e25bae478ba439d5ab09b71cb44a, type: 3}
+  - {fileID: 21300000, guid: da76065ba5f394045aa319430ff7482f, type: 3}
+  - {fileID: 21300000, guid: cdbdeb0cab34edc4c9ce550339fafbec, type: 3}
+  - {fileID: 21300000, guid: 1eae1b2d2fa96d24084711d9a64093a6, type: 3}
+  - {fileID: 21300000, guid: 10b956adab9306c4288e0d13eb5202a4, type: 3}
+  - {fileID: 21300000, guid: ad384a1eed4463f4bb9a96f6903d708f, type: 3}
+  - {fileID: 21300000, guid: e9b1fa9edc964564cb22930af47a7830, type: 3}
+  - {fileID: 21300000, guid: 1165493f3cd990342ba038cb71af8b93, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - story mode
+  - select level
+  - Ambient volume
+  - start game
+  - Effect volume
+  - SELECT YOUR HOUSE
+  - exit
+  - game parameters
+  - level 1
+  - back
+  - friends
+  - level_3
+  - 2550 credits
+  - notifications
+  - chat
+  - game_page
+  - online
+  - sound _ music parameters
+  - level_4
+  - politics
+  - Mission 1 - first territory
+  - play
+  - Music volume
+  - shop
+  - social
+  - options
+  - level_2
+  m_RenderDataMap: {}
+  m_Tag: titles
+  m_IsVariant: 0
